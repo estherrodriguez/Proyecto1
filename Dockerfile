@@ -17,4 +17,4 @@ ADD create-topics.sh /usr/bin/create-topics.sh
 
 # Use "exec" form so that it runs as PID 1 (useful for graceful shutdown)
 CMD ["start-kafka.sh"]
-#Esto es un cambio para pruebas
+#Esto es un cambio para pruebas +2
